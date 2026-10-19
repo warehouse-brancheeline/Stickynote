@@ -1,0 +1,6 @@
+{
+  "name": "WinMemo - Catatan & Alarm Windows",
+  "description": "Aplikasi catatan Windows modern dengan alarm suara nyata, pengaturan tanggal & jam, daftar ceklis, pengingat cerdas, dan antarmuka Windows 11 Fluent Design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
